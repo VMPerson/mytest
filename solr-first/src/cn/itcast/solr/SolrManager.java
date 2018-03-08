@@ -1,4 +1,4 @@
-package cn.itcast.solr;
+﻿package cn.itcast.solr;
 
 import java.io.IOException;
 
@@ -67,6 +67,8 @@ public class SolrManager {
 		solrQuery.set("id:3");
 		QueryResponse query = solrServer.query(solrQuery);
 		System.out.println(query);
+
+张三改了代码
 	}
 
 }
