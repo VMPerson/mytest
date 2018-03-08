@@ -69,6 +69,10 @@ public class SolrManager {
 		System.out.println(query);
 
 张三改了代码
+
+
+主人也改了代码
+
 张三又改了
 	}
 
